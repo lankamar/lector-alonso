@@ -1,0 +1,7 @@
+edge-tts
+fastapi
+uvicorn
+python-multipart
+pypdf
+python-docx
+Pillow
